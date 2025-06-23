@@ -1,7 +1,7 @@
 """
 Low-rank probability density model for continuous distributions
 
-Author : Laurène DAVID
+Author : Nassima OULD OUALI 
 """
 
 import numpy as np

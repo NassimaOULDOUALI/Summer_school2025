@@ -1,7 +1,7 @@
 """
 Generate low rank samples for discrete and continuous distributions
 
-Author: Laurène DAVID
+Author: Nassima OULD OUALI
 """
 
 import warnings

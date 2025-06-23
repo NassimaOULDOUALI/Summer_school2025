@@ -1,7 +1,7 @@
 """
 Low-rank probability matrix estimator for discrete distributions
 
-Authors : Laurène DAVID and Shreshtha SHAURYA
+Authors : Nassima OULD OUALI
 """
 
 import numpy as np
