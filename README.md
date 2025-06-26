@@ -1,7 +1,7 @@
 # Learn how to develop your own Python Package 📦 - Hi! PARIS Summer School 2023
 
-# comment
-# comment
+
+
 In this practical research tips session hosted by the Hi! PARIS Engineering Team, you will learn how
 to **build**, **test** and **publish Python packages**.
 
