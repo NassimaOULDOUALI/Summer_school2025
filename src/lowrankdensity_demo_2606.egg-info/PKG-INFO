@@ -1,7 +1,21 @@
+Metadata-Version: 2.4
+Name: lowrankdensity_demo_2606
+Version: 0.0.3
+Summary: This package does amazing things.
+Home-page: https://github.com/yohila/Summer_School_Package
+Author: Hi Paris
+Author-email: "Hi! Paris" <contact@hiparis.com>
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Dynamic: license-file
+
 # Learn how to develop your own Python Package 📦 - Hi! PARIS Summer School 2023
 
-# comment
-# comment
+
 In this practical research tips session hosted by the Hi! PARIS Engineering Team, you will learn how
 to **build**, **test** and **publish Python packages**.
 
